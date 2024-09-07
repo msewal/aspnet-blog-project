@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\bloggerMewl.Entities\bloggerMewl.Entities.csproj" />
+    <ProjectReference Include="..\bloggerMewl.Shared\bloggerMewl.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
