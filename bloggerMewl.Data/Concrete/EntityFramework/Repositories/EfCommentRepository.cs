@@ -8,11 +8,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bloggerMewl.Data.Concrete
+namespace bloggerMewl.Data.Concrete.EntityFramework.Repositories
 {
-    public class ArticleRepository : EfEntityRepositoryBase<Article>, IArticleRepository
+    public class EfCommentRepository : EfEntityRepositoryBase<Comment>, ICommentRepository
     {
-        public ArticleRepository(DbContext context) : base(context)
+        public EfCommentRepository(DbContext context) : base(context)
         {
         }
     }
