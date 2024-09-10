@@ -1,0 +1,13 @@
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\bin\Debug\net9.0\bloggerMewl.Shared.deps.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\bin\Debug\net9.0\bloggerMewl.Shared.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\bin\Debug\net9.0\bloggerMewl.Shared.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.csproj.AssemblyReference.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.AssemblyInfoInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.AssemblyInfo.cs
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.csproj.CoreCompileInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.sourcelink.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\refint\bloggerMewl.Shared.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\bloggerMewl.Shared.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Shared\obj\Debug\net9.0\ref\bloggerMewl.Shared.dll
