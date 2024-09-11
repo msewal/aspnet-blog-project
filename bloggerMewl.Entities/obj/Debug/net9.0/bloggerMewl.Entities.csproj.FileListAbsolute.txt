@@ -1,0 +1,6 @@
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.csproj.AssemblyReference.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.AssemblyInfoInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.AssemblyInfo.cs
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.csproj.CoreCompileInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.sourcelink.json

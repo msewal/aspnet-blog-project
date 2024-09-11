@@ -44,4 +44,3 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
         }
     }
 }
-
