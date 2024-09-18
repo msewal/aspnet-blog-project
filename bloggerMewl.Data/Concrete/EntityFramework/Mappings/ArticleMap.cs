@@ -2,10 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
 {
@@ -42,6 +38,85 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
             builder.HasOne<Category>(a => a.Category).WithMany(c => c.Articles).HasForeignKey(a => a.CategoryId);
             builder.HasOne<User>(a => a.User).WithMany(u => u.Articles).HasForeignKey(a => a.UserId);
             builder.ToTable("Articles");
+
+            builder.HasData(
+                new Article
+                {
+                    Id = 1,
+                    CategoryId = 1,
+                    Title = "C# 9.0 and .NET 5 changes",
+                    Content = "There's a lady who's sure all that glitters is gold\r\n" +
+                    "And she's buying a stairway to Heaven\r\n" +
+                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    Thumbnail = "Default.jpg",
+                    SeoDescription = "C# 9.0 and .NET changes",
+                    SeoTags = "C#, C# 9, .NET 5, .NET Framework, .NET Core",
+                    SeoAuthor = "Mewl",
+                    Date = DateTime.Now,
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "C# 9.0 and .NET changes",
+                    UserId = 1,
+                    ViewCount = 100,
+                    CommentCount = 1,
+                },
+                new Article
+                {
+                    Id = 2,
+                    CategoryId = 2,
+                    Title = "C++ 11 and 19 changes",
+                    Content = "There's a lady who's sure all that glitters is gold\r\n" +
+                    "And she's buying a stairway to Heaven\r\n" +
+                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    Thumbnail = "Default.jpg",
+                    SeoDescription = "C++ 11 and 19 changes",
+                    SeoTags = "C++ 11 and 19 changes",
+                    SeoAuthor = "Mewl",
+                    Date = DateTime.Now,
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "C++ 11 and 19 changes",
+                    UserId = 1,
+                    ViewCount = 295,
+                    CommentCount = 1,
+                },
+                new Article
+                {
+                    Id = 3,
+                    CategoryId = 3,
+                    Title = "JavaScript ES2019 and ES2020 changes",
+                    Content = "There's a lady who's sure all that glitters is gold\r\n" +
+                    "And she's buying a stairway to Heaven\r\n" +
+                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    Thumbnail = "Default.jpg",
+                    SeoDescription = "JavaScript ES2019 and ES2020 changes",
+                    SeoTags = "JavaScript ES2019 and ES2020 changes",
+                    SeoAuthor = "Mewl",
+                    Date = DateTime.Now,
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "JavaScript ES2019 and ES2020 changes",
+                    UserId = 1,
+                    ViewCount = 12,
+                    CommentCount = 1,
+                }
+            );
         }
     }
 }
+
+
+
+               

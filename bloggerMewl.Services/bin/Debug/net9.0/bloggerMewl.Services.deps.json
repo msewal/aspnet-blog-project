@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bloggerMewl.Services/1.0.0": {
+        "runtime": {
+          "bloggerMewl.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bloggerMewl.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

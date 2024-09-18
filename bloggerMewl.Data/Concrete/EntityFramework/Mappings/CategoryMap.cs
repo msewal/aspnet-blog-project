@@ -28,6 +28,49 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
             builder.Property(c => c.IsDeleted).IsRequired();
             builder.Property(c => c.Note).HasMaxLength(500);
             builder.ToTable("Categories");
+
+            builder.HasData(
+                new Category
+                {
+                    Id = 1,
+                    Name = "C#",
+                    Description = "The most up-to-date information about the C# programming language",
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "C# Blog Category",
+                },
+                new Category
+                {
+                    Id = 2,
+                    Name = "C++",
+                    Description = "The most up-to-date information about the C++ programming language",
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "C++ Blog Category",
+                },
+
+                new Category
+                {
+                    Id = 3,
+                    Name = "Python",
+                    Description = "The most up-to-date information about the Python programming language",
+                    IsActive = true,
+                    IsDeleted = false,
+                    CreatedByName = "InitialCreate",
+                    CreatedDate = DateTime.Now,
+                    ModifiedByName = "InitialCreate",
+                    ModifiedDate = DateTime.Now,
+                    Note = "Python Blog Category",
+                }
+            );
         }
     }
 }

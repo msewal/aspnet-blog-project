@@ -4,3 +4,13 @@ C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bl
 C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.AssemblyInfo.cs
 C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.csproj.CoreCompileInputs.cache
 C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.sourcelink.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\bin\Debug\net9.0\bloggerMewl.Entities.deps.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\bin\Debug\net9.0\bloggerMewl.Entities.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\bin\Debug\net9.0\bloggerMewl.Entities.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\bin\Debug\net9.0\bloggerMewl.Shared.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\bin\Debug\net9.0\bloggerMewl.Shared.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerM.D5236FC3.Up2Date
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\refint\bloggerMewl.Entities.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\bloggerMewl.Entities.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Entities\obj\Debug\net9.0\ref\bloggerMewl.Entities.dll

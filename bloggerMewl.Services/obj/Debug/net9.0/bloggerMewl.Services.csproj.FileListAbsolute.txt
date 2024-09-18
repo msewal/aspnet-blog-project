@@ -1,0 +1,12 @@
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\bin\Debug\net9.0\bloggerMewl.Services.deps.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\bin\Debug\net9.0\bloggerMewl.Services.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\bin\Debug\net9.0\bloggerMewl.Services.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.AssemblyInfoInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.AssemblyInfo.cs
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.csproj.CoreCompileInputs.cache
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.sourcelink.json
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\refint\bloggerMewl.Services.dll
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\bloggerMewl.Services.pdb
+C:\Users\msevv\source\repos\bloggerMewl\bloggerMewl.Services\obj\Debug\net9.0\ref\bloggerMewl.Services.dll
