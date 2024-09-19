@@ -23,7 +23,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
             builder.Property(a => a.SeoTags).IsRequired();
             builder.Property(a => a.SeoTags).HasMaxLength(70);
             builder.Property(a => a.ViewsCount).IsRequired();
-            builder.Property(a => a.CommentCount).IsRequired();
+            // builder.Property(a => a.CommentCount).IsRequired(); // Artık atama yapılmayacak
             builder.Property(a => a.Thumbnail).IsRequired();
             builder.Property(a => a.Thumbnail).HasMaxLength(250);
             builder.Property(a => a.CreatedByName).IsRequired();
@@ -46,8 +46,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     CategoryId = 1,
                     Title = "C# 9.0 and .NET 5 changes",
                     Content = "There's a lady who's sure all that glitters is gold\r\n" +
-                    "And she's buying a stairway to Heaven\r\n" +
-                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    "And she's buying a stairway to Heaven\r\n",
                     Thumbnail = "Default.jpg",
                     SeoDescription = "C# 9.0 and .NET changes",
                     SeoTags = "C#, C# 9, .NET 5, .NET Framework, .NET Core",
@@ -62,7 +61,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     Note = "C# 9.0 and .NET changes",
                     UserId = 1,
                     ViewCount = 100,
-                    CommentCount = 1,
+                    // CommentCount ataması kaldırıldı
                 },
                 new Article
                 {
@@ -70,8 +69,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     CategoryId = 2,
                     Title = "C++ 11 and 19 changes",
                     Content = "There's a lady who's sure all that glitters is gold\r\n" +
-                    "And she's buying a stairway to Heaven\r\n" +
-                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    "And she's buying a stairway to Heaven\r\n",
                     Thumbnail = "Default.jpg",
                     SeoDescription = "C++ 11 and 19 changes",
                     SeoTags = "C++ 11 and 19 changes",
@@ -86,7 +84,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     Note = "C++ 11 and 19 changes",
                     UserId = 1,
                     ViewCount = 295,
-                    CommentCount = 1,
+                    // CommentCount ataması kaldırıldı
                 },
                 new Article
                 {
@@ -94,8 +92,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     CategoryId = 3,
                     Title = "JavaScript ES2019 and ES2020 changes",
                     Content = "There's a lady who's sure all that glitters is gold\r\n" +
-                    "And she's buying a stairway to Heaven\r\n" +
-                    "...", // İçerik uzun olduğu için kısaltılmıştır.
+                    "And she's buying a stairway to Heaven\r\n",
                     Thumbnail = "Default.jpg",
                     SeoDescription = "JavaScript ES2019 and ES2020 changes",
                     SeoTags = "JavaScript ES2019 and ES2020 changes",
@@ -110,13 +107,8 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     Note = "JavaScript ES2019 and ES2020 changes",
                     UserId = 1,
                     ViewCount = 12,
-                    CommentCount = 1,
                 }
             );
         }
     }
 }
-
-
-
-               

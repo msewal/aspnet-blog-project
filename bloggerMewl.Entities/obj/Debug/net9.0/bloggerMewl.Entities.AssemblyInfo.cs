@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bloggerMewl.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fca774ed015b5bb2b8073a1183a084cc745f14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d160213ce04bdcf97663007fd09c9e75fe13025e")]
 [assembly: System.Reflection.AssemblyProductAttribute("bloggerMewl.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bloggerMewl.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
