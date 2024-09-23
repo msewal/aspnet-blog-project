@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "hssx5Bc1yvU=",
+  "dgSpecHash": "sEqSIdFm7AM=",
   "success": true,
   "projectFilePath": "C:\\Users\\msevv\\source\\repos\\bloggerMewl\\bloggerMewl.Services\\bloggerMewl.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-rc.1.24451.1\\microsoft.entityframeworkcore.9.0.0-rc.1.24451.1.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-rc.1.24451.1\\microsoft.entityframeworkcore.abstractions.9.0.0-rc.1.24451.1.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-rc.1.24451.1\\microsoft.entityframeworkcore.analyzers.9.0.0-rc.1.24451.1.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.caching.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-rc.1.24431.7\\microsoft.extensions.caching.memory.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-rc.1.24431.7\\microsoft.extensions.logging.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.logging.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-rc.1.24431.7\\microsoft.extensions.options.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\msevv\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-rc.1.24431.7\\microsoft.extensions.primitives.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
   "logs": []
 }

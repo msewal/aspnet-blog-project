@@ -18,7 +18,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
             builder.Property(c => c.Text).IsRequired();
             builder.Property(c => c.Text).HasMaxLength(1000);
             //builder.HasOne<Article>(c => c.Article).WithMany(a => a.Comments).HasForeignKey(c => c.ArticleId);
-            //builder.HasOne<Article>(NavigationExpresssion: c:Comment => c.Article).WithMany(NavigationExpresssion: a:Article => a.Comments).HasForeignKey(c => c.ArticleId);
+            //builder.HasOne<Article>(NavigationExpression: c:Comment => c.Article).WithMany(NavigationExpression: a:Article => a.Comments).HasForeignKey(c => c.ArticleId);
             builder.HasOne<Article>(c => c.Article).WithMany(a => a.Comments).HasForeignKey(c => c.ArticleId);
             builder.Property(c => c.CreatedByName).IsRequired();
             builder.Property(c => c.CreatedByName).HasMaxLength(50);
@@ -71,7 +71,7 @@ namespace bloggerMewl.Data.Concrete.EntityFramework.Mappings
                     ModifiedDate = DateTime.Now,
                     Note = "JavaScript Article's Comment",
                 }
-                );
+            );
         }
     }
 }
